@@ -2,7 +2,7 @@
 
 Problem-oriented data and analytics professional applying machine learning to real business problems. I think in systems, dependencies and outcomes, and I care about framing technical work around the decision it is meant to support.
 
-Currently at L'Oréal (Luxury Division) and completing the Cambridge Data Science, Machine Learning & AI Career Accelerator (Level 7). Joining **Palantir** as a **Deployment Strategist** in August 2026.
+Currently at L'Oréal Dermatological Beauty (LDB) and completing the Cambridge Data Science, Machine Learning & AI Career Accelerator (Level 7). Joining **Palantir** as a **Deployment Strategist** in August 2026.
 
 ## Featured Projects
 
